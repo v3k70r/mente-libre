@@ -1,0 +1,119 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1f4f5fd7-e4eb-46e1-9d2e-97ae1d3adda6\" name=\"Changes\" comment=\"Se inicia chatbot.\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;v3k70r&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/v3k70r/mente-libre.git&quot;,\r\n    &quot;accountId&quot;: &quot;c451e3e0-16a5-43e0-89d8-c8ed7ea06d76&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2xTQxGClCzRT3a7ijyzpbu9BM94\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1f4f5fd7-e4eb-46e1-9d2e-97ae1d3adda6\" name=\"Changes\" comment=\"\" />\r\n      <created>1747959827374</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1747959827374</updated>\r\n      <workItem from=\"1747959828757\" duration=\"3233000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Se inicia auth-service.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1747960257328</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1747960257328</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Se inicia auth-service.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1747961990068</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1747961990068</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Se inicia chatbot.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1747962322107</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1747962322107</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Se inicia auth-service.\" />\r\n    <MESSAGE value=\"Se inicia chatbot.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Se inicia chatbot.\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5c51eb58c84a69e4b617294918e70f47a9f8bdfc)
++++ b/.idea/workspace.xml	(date 1747964300151)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1f4f5fd7-e4eb-46e1-9d2e-97ae1d3adda6" name="Changes" comment="Se inicia chatbot.">
++    <list default="true" id="1f4f5fd7-e4eb-46e1-9d2e-97ae1d3adda6" name="Changes" comment="Se inicia user-profile.">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -21,12 +21,12 @@
+     &quot;assignee&quot;: &quot;v3k70r&quot;
+   }
+ }</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/v3k70r/mente-libre.git&quot;,
+-    &quot;accountId&quot;: &quot;c451e3e0-16a5-43e0-89d8-c8ed7ea06d76&quot;
+-  }
+-}</component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/v3k70r/mente-libre.git",
++    "accountId": "da5d4c1c-7776-4124-a94d-09273871dcf3"
++  }
++}]]></component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2
+ }</component>
+@@ -35,28 +35,30 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "master",
++    "junie.onboarding.icon.badge.shown": "true",
++    "kotlin-language-version-configured": "true",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
++        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
++        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+       </set>
+     </attachedChunks>
+   </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="1f4f5fd7-e4eb-46e1-9d2e-97ae1d3adda6" name="Changes" comment="" />
+@@ -65,6 +67,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1747959827374</updated>
+       <workItem from="1747959828757" duration="3233000" />
++      <workItem from="1747963432269" duration="861000" />
+     </task>
+     <task id="LOCAL-00001" summary="Se inicia auth-service.">
+       <option name="closed" value="true" />
+@@ -90,7 +93,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1747962322107</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Se inicia user-profile.">
++      <option name="closed" value="true" />
++      <created>1747963738369</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1747963738369</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -99,6 +110,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Se inicia auth-service." />
+     <MESSAGE value="Se inicia chatbot." />
+-    <option name="LAST_COMMIT_MESSAGE" value="Se inicia chatbot." />
++    <MESSAGE value="Se inicia user-profile." />
++    <option name="LAST_COMMIT_MESSAGE" value="Se inicia user-profile." />
+   </component>
+ </project>
+\ No newline at end of file
